@@ -1,0 +1,30 @@
+{
+	"id": "skaarhoj-rawpanel-extended",
+	"name": "skaarhoj-rawpanel-extended",
+	"shortname": "Raw Panel Extended",
+	"description": "SKAARHOJ Raw Panel Extended",
+	"version": "1.0.0",
+	"license": "MIT",
+	"repository": "git+https://github.com/bitfocus/companion-module-skaarhoj-rawpanel.git",
+	"bugs": "https://github.com/bitfocus/companion-module-skaarhoj-rawpanel/issues",
+	"maintainers": [
+		{
+			"name": "SKAARHOJ ApS",
+			"email": "info@skaarhoj.com"
+		},
+		{
+			"name": "Andreas H. Thomsen",
+			"email": "andreas@skaarhoj.com"
+		}
+	],
+	"legacyIds": [],
+	"runtime": {
+		"type": "node18",
+		"api": "nodejs-ipc",
+		"apiVersion": "0.0.0",
+		"entrypoint": "../src3/index.js"
+	},
+	"manufacturer": "SKAARHOJ",
+	"products": ["Raw Panel Extended"],
+	"keywords": ["Controller", "Unisketch", "Bluepill"]
+}
