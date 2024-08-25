@@ -24,36 +24,9 @@ Things to fix:
 # Path Notes
 
 **V2.0.1-extended**
+ - First release for the extended plugin.
  - Reworked the options menu
  - Added more buttons to be mapped (Skaarhoj FlyPack Duo has 48 buttons + 24 LED's)
  - Added option to pass more buttons from pages (original had only a max of 32)
  - Added option to remove top "adress bar" on the LCD. Skahooj panels have small LCD's. This option maximized the realestate
  - Optimized some functions. The original code had a lot of "old" javascript functions like switch and "plus-stringconstruction"
-
-**V2.0.1**
- - Fix Compile Issues
-
-**V2.0.0**
-
-- Ported module to Companion v3.x
-- Added Satellite connection support on Companion 3.x
-- Added Actions support on Companion 3.x
-- Added Variable support on Companion 3.x
-- Old Feedbacks setups from Companion 2.x are currently not supported
-
-**V1.0.3**
-
-- Bug fix: Fix version locked to only work with Companion V2.2.0, now works with all version of companion 2.X.X
-
-**V1.0.2**
-
-- Updated images to match current Blue Pill Development
-- Fixed images not loading correctly in the Help.md file
-
-**V1.0.1**
-
-- Added support for latched buttons with "Companion Satellite API" buttons
-
-**V1.0.0**
-
-- Initial Release
