@@ -30,3 +30,16 @@ Things to fix:
  - Added option to pass more buttons from pages (original had only a max of 32)
  - Added option to remove top "adress bar" on the LCD. Skahooj panels have small LCD's. This option maximized the realestate
  - Optimized some functions. The original code had a lot of "old" javascript functions like switch and "plus-stringconstruction"
+
+
+ Added option to define number of buttons to be passed through the API:
+ ![Button Passthrough Count](companion/Images/rawpanel-extended-buttoncount.png?raw=true 'Button Passthrough Count')
+
+ Updated mapping section. Added more options + LED feedback "buttons":
+ ![Updated Mapping Section](companion/Images/rawpanel-extended-buttonmapping.png.png?raw=true 'Updated Mapping Section')
+
+ Added option show or hide the labels in the Skarhooj LCD's. The option doesn't follow the button option (future update?):
+ ![Show or hide labels](companion/Images/rawpanel-extended-showlabels.png?raw=true 'Show or hide labels')
+
+ An example Companion page. Added 8 rows to accomodate all the extra buttons. Skipped the last 2 colums because of OCD:
+ ![Example Companion Page](companion/Images/rawpanel-extended-companionpage.png?raw=true 'Example Companion Page')
