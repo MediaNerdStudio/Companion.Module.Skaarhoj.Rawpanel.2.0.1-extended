@@ -36,7 +36,7 @@ Things to fix:
  ![Button Passthrough Count](companion/Images/rawpanel-extended-buttoncount.png?raw=true 'Button Passthrough Count')
 
  Updated mapping section. Added more options + LED feedback "buttons":
- ![Updated Mapping Section](companion/Images/rawpanel-extended-buttonmapping.png.png?raw=true 'Updated Mapping Section')
+ ![Updated Mapping Section](companion/Images/rawpanel-extended-buttonmapping.png?raw=true 'Updated Mapping Section')
 
  Added option show or hide the labels in the Skarhooj LCD's. The option doesn't follow the button option (future update?):
  ![Show or hide labels](companion/Images/rawpanel-extended-showlabels.png?raw=true 'Show or hide labels')
